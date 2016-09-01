@@ -1,7 +1,6 @@
 arch-install-scripts
 b43-fwcutter
 btrfs-progs
-clonezilla
 crda
 darkhttpd
 ddrescue
@@ -55,11 +54,16 @@ sudo
 tcpdump
 testdisk
 usb_modeswitch
-vim-minimal
+vim
 vpnc
 wget
 wireless_tools
 wpa_actiond
 wvdial
 xl2tpd
+xorg-server
 zd1211-firmware
+xclip
+rxvt-unicode
+tmux
+lxde
